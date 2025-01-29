@@ -40,7 +40,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <p className="text-lg mb-4">
             "Gender equity is not a women's issue—it's a human issue. Let's build a future where everyone can succeed."
           </p>
-          <p className="text-sm">© 2023 Aruuke Atabekova LIN: 800184902. All rights reserved.</p>
+          <p className="text-sm">© 2025 Aruuke Atabekova LIN: 800184902. All rights reserved.</p>
         </div>
       </footer>
     </div>
